@@ -2,28 +2,17 @@ public class Solution
 {
     public int Reverse(int x) 
     {
-        int MAX = int.MaxValue / 10;
-        int MIN = int.MinValue / 10;
-        bool isNegative = false;
-        int reversedNo = 0;
-
-        if (x == int.MaxValue || x == int.MinValue)
-            return 0;
-        if (x < 0)
+        int reversedNumber = 0;
+        while (x != 0)
         {
-            isNegative = true;
-            x = Math.Abs(x);
-        }
-        while (x > 0)
-        {
-            reversedNo = 10 * reversedNo + x % 10;
-            x /= 10;
-            if (reversedNo > MAX && x != 0)
+            int lastDigit = x % 10;
+            if ((reversedNumber > int.MaxValue / 10) || (reversedNumber == int.MaxValue / 10 && lastDigit > 7))
                 return 0;
+            if ((reversedNumber < int.MinValue / 10) || (reversedNumber == int.MinValue / 10 && lastDigit < -8))
+                return 0;
+            reversedNumber = (reversedNumber * 10) + lastDigit;
+            x /= 10;
         }
-        if (isNegative)
-            return -reversedNo;
-        else
-            return reversedNo;
+        return reversedNumber;
     }
 }
