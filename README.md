@@ -14,9 +14,9 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Problem Number | Source | Problem Title | Difficulty |
 |----------------|----------------|---------------|------------|
-| 1              | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum) | Easy       |
-| 13              | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy     |
-| 217            | LeetCode | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           | Easy        |
+| 1              | LC | [Two Sum](https://leetcode.com/problems/two-sum) | Easy       |
+| 13              | LC | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy     |
+| 217            | LC | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           | Easy        |
 | 242 | LC | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
 | 258 | LC | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy |
 | 412 | LC | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy |
