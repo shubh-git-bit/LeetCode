@@ -30,6 +30,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [LCM And GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | Easy |
 | 50 | LC | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |
 | | GFG | [All divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1?utm_source=youtube&amp%3Butm_medium=collab_striver_ytdescription&amp%3Butm_campaign=all-divisors-of-a-number) | Easy |
+| | GFG | [Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=Prime-Factors) | Easy |
 
 
 ---
