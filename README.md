@@ -6,7 +6,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 14    |
+| Easy       | 15    |
 | Medium     | 2     |
 | Hard       | 0     |
 
