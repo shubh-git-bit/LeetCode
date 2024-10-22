@@ -28,7 +28,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy |
 | | GFG | [Sum of all divisors from 1 to n](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Easy | 
 | | GFG | [LCM And GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | Easy |
-| | LC | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |
+| 50 | LC | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |
 
 
 ---
