@@ -6,7 +6,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 13    |
+| Easy       | 14    |
 | Medium     | 2     |
 | Hard       | 0     |
 
@@ -29,6 +29,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [Sum of all divisors from 1 to n](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Easy | 
 | | GFG | [LCM And GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | Easy |
 | 50 | LC | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium |
+| | GFG | [All divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1?utm_source=youtube&amp%3Butm_medium=collab_striver_ytdescription&amp%3Butm_campaign=all-divisors-of-a-number) | Easy |
 
 
 ---
