@@ -9,7 +9,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | Easy       | 18    |
 | Medium     | 3     |
 | Hard       | 0     |
-| **Total**  | 21    |
+| **Total**  | **21**    |
 
 ## Problems Solved
 
