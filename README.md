@@ -6,7 +6,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 16    |
+| Easy       | 17    |
 | Medium     | 2     |
 | Hard       | 0     |
 
@@ -32,6 +32,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [All divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1?utm_source=youtube&amp%3Butm_medium=collab_striver_ytdescription&amp%3Butm_campaign=all-divisors-of-a-number) | Easy |
 | | GFG | [Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=Prime-Factors) | Easy |
 | | GFG | [Print 1 To N Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-1-to-n-without-using-loops) | Easy |
+| | GFG | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-gfg-n-times) | Easy |
 
 
 ---
