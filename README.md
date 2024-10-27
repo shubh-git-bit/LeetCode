@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 19    |
+| Easy       | 20    |
 | Medium     | 4     |
 | Hard       | 0     |
-| **Total**  | **23**    |
+| **Total**  | **24**    |
 
 ## Problems Solved
 
@@ -38,6 +38,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | 204 | LC | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium |
 | | GFG | [Prime Factorization using Sieve](https://www.geeksforgeeks.org/problems/prime-factorization-using-sieve/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=prime-factorization-using-sieve) | Medium |
 | | GFG | [Sum of first n terms](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1) | Easy |
+| 509 | LC | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy |
 
 
 ---
