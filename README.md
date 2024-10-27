@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 18    |
+| Easy       | 19    |
 | Medium     | 4     |
 | Hard       | 0     |
-| **Total**  | **22**    |
+| **Total**  | **23**    |
 
 ## Problems Solved
 
@@ -37,6 +37,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [Print N to 1 without loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-n-to-1-without-loop) | Easy |
 | 204 | LC | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium |
 | | GFG | [Prime Factorization using Sieve](https://www.geeksforgeeks.org/problems/prime-factorization-using-sieve/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=prime-factorization-using-sieve) | Medium |
+| | GFG | [Sum of first n terms](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1) | Easy |
 
 
 ---
