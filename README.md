@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 21    |
+| Easy       | 22    |
 | Medium     | 4     |
 | Hard       | 0     |
-| **Total**  | **25**    |
+| **Total**  | **26**    |
 
 ## Problems Solved
 
@@ -40,6 +40,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [Sum of first n terms](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1) | Easy |
 | 509 | LC | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy |
 | 125 | LC | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy |
+| | GFG | [Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/0) | Easy |
 
 
 ---
