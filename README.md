@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 24    |
+| Easy       | 25    |
 | Medium     | 4     |
 | Hard       | 0     |
-| **Total**  | **28**    |
+| **Total**  | **29**    |
 
 ## Problems Solved
 
@@ -43,6 +43,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/0) | Easy |
 | | GFG | [Find all factorial numbers less than or equal to n](https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0?problemType=functional&difficulty%255B%255D=-1&page=1&query=problemTypefunctionaldifficulty%255B%255D-1page1) | Easy |
 | | GFG | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort) | Easy |
+| | GFG | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort) | Easy |
 
 
 ---
