@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 27    |
+| Easy       | 28    |
 | Medium     | 6     |
 | Hard       | 0     |
-| **Total**  | **33**    |
+| **Total**  | **34**    |
 
 ## Problems Solved
 
@@ -48,6 +48,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-sort) | Medium |
 | | GFG | [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=quick-sort) | Medium |
 | | GFG | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest) | Easy |
+| 1752 | LC | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy |
 
 
 ---
