@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 29    |
+| Easy       | 30    |
 | Medium     | 7     |
 | Hard       | 0     |
-| **Total**  | **36**    |
+| **Total**  | **37**    |
 
 ## Problems Solved
 
@@ -51,6 +51,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | 1752 | LC | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy |
 | 26 | LC | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 | 189 | LC | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium |
+| 283 | LC | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |
 
 
 ---
