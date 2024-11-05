@@ -49,7 +49,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | | GFG | [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=quick-sort) | Medium |
 | | GFG | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest) | Easy |
 | 1752 | LC | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy |
-| 26 | LC | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | <span style="color:green">Easy</span> |
+| 26 | LC | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | \textcolor{green}{Easy} |
 
 
 ---
