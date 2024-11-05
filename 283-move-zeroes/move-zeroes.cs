@@ -5,18 +5,20 @@ public class Solution
         int i = 0;
         if (nums.Length > 1)
         {
-            for(int j = 0; j < nums.Length; j++)
+            for (int j = 0; j < nums.Length; j++)
             {
                 if (nums[j] != 0)
                 {
-                    nums[i] = nums[j];
+                    Swap(nums, i, j);
                     i++;
                 }
             }
-            for (int j = i;j < nums.Length;j++)
-            {
-                nums[j] = 0;
-            }
         }
+    }
+    public void Swap(int[] nums, int a, int b)
+    {
+        int temp = nums[a];
+        nums[a] = nums[b];
+        nums[b] = temp;
     }
 }
