@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 30    |
+| Easy       | 31    |
 | Medium     | 7     |
 | Hard       | 0     |
-| **Total**  | **37**    |
+| **Total**  | **38**    |
 
 ## Problems Solved
 
@@ -52,6 +52,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | 26 | LC | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 | 189 | LC | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium |
 | 283 | LC | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |
+| | GFG | [Sorted Array Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win) | Easy |
 
 
 ---
