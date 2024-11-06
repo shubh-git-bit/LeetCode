@@ -4,31 +4,16 @@ public class Solution
     {
         int currentStreak = 0;
         int maxStreak = 0;
-        int i = 0;
-        if (nums.Length > 1)
+        for (int i = 0; i < nums.Length; i++)
         {
-            while (i < nums.Length)
+            if (nums[i] > 0)
+                currentStreak++;
+            else
             {
-                if (nums[i] == 0)
-                {
-                    if (maxStreak < currentStreak)
-                        maxStreak = currentStreak;
-                    currentStreak = 0;
-                }
-                else if (nums[i] == 1)
-                {
-                    currentStreak++;
-                }
-                i++;
+                maxStreak = Math.Max(currentStreak, maxStreak);
+                currentStreak = 0;
             }
-            if (maxStreak < currentStreak)
-                maxStreak = currentStreak;
-            return maxStreak;
         }
-        else if (nums.Length == 1 && nums[0] == 0)
-            return 0;
-        else
-            return 1;
-
+        return Math.Max(currentStreak, maxStreak);
     }
 }
