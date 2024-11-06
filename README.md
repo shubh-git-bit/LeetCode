@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 31    |
+| Easy       | 32    |
 | Medium     | 8     |
 | Hard       | 0     |
-| **Total**  | **39**    |
+| **Total**  | **40**    |
 
 ## Problems Solved
 
@@ -54,6 +54,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | 283 | LC | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |
 | | GFG | [Sorted Array Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win) | Easy |
 | | GFG | [Union of Two Sorted Arrays with Duplicate Elements](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays) | Medium |
+| 268 | LC | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy |
 
 
 ---
