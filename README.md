@@ -7,9 +7,9 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 34    |
-| Medium     | 8     |
+| Medium     | 9     |
 | Hard       | 0     |
-| **Total**  | **42**    |
+| **Total**  | **43**    |
 
 ## Problems Solved
 
@@ -57,6 +57,7 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | 268 | LC | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy |
 | 485 | LC | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy |
 | 136 | LC | [Single Number](https://leetcode.com/problems/single-number/) | Easy |
+| | GFG | [Longest Sub-Array with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k) | Medium |
 
 
 ---
