@@ -7,9 +7,9 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 35    |
-| Medium     | 10     |
+| Medium     | 11     |
 | Hard       | 0     |
-| **Total**  | **45**    |
+| **Total**  | **46**    |
 
 ## Problems Solved
 
@@ -60,6 +60,7 @@ Sr. No.| Problem Number | Source | Problem Title | Difficulty |
 | 43 | | GFG | [Longest Sub-Array with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k) | Medium |
 | 44 | 169 | LC | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 
 | 45 | 75 | LC | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |
+| 46 | 53 | LC | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |
 
 
 ---
