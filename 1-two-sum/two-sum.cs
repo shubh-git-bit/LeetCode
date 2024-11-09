@@ -2,33 +2,20 @@ public class Solution
 {
     public int[] TwoSum(int[] nums, int target) 
     {
-        IndexedValues[] indexedArray = new IndexedValues[nums.Length];
-
+        SortedDictionary<int, int> complements = new SortedDictionary<int, int>();
         for (int i = 0; i < nums.Length; i++)
         {
-            indexedArray[i] = new IndexedValues
+            if (!complements.ContainsKey(target - nums[i]))
             {
-               Index = i,
-               Value = nums[i]         
-            };
+                if (!complements.ContainsKey(nums[i]))
+                    complements.Add(nums[i], i);
+            }
+            else
+            {
+                return new[] { complements[target - nums[i]], i };
+            }
         }
-        Array.Sort(indexedArray, (a,b) => a.Value.CompareTo(b.Value));
-        int start = 0;
-        int end = indexedArray.Length - 1;
-        while (start < end)
-        {
-            if (indexedArray[start].Value + indexedArray[end].Value < target)
-                start++;
-            else if (indexedArray[start].Value + indexedArray[end].Value > target)
-                end--;
-            else if (indexedArray[start].Value + indexedArray[end].Value == target)
-                return new int[]{indexedArray[start].Index, indexedArray[end].Index};
-        }
-        return new int[]{};
+
+        return new int[] { };
     }
-}
-public class IndexedValues
-{
-    public int Value {get; set;}
-    public int Index {get; set;}
 }
