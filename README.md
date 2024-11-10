@@ -7,9 +7,9 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 36    |
-| Medium     | 11     |
+| Medium     | 12     |
 | Hard       | 0     |
-| **Total**  | **47**    |
+| **Total**  | **48**    |
 
 ## Problems Solved
 
@@ -62,6 +62,7 @@ Sr. No.| Problem Number | Source | Problem Title | Difficulty |
 | 45 | 75 | LC | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |
 | 46 | 53 | LC | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |
 | 47 | 121 | LC | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
+| 48 | 2149 | LC | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 
 
 
 ---
