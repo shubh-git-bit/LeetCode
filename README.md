@@ -6,10 +6,10 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 35    |
+| Easy       | 36    |
 | Medium     | 11     |
 | Hard       | 0     |
-| **Total**  | **46**    |
+| **Total**  | **47**    |
 
 ## Problems Solved
 
@@ -61,6 +61,7 @@ Sr. No.| Problem Number | Source | Problem Title | Difficulty |
 | 44 | 169 | LC | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | 
 | 45 | 75 | LC | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |
 | 46 | 53 | LC | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |
+| 47 | 121 | LC | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
 
 
 ---
