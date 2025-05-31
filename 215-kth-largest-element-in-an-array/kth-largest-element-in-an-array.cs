@@ -4,12 +4,11 @@ public class Solution {
         var pq = new PriorityQueue<int, int>();
         foreach (var num in nums)
         {
-            pq.Enqueue(num, -num);
-        }
-        while (k > 1)
-        {
-            pq.Dequeue();
-            k--;
+            pq.Enqueue(num, num);  
+            if (pq.Count > k)
+            {
+                pq.Dequeue();
+            }
         }
         return pq.Peek();
     }
