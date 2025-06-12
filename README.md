@@ -7,9 +7,9 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 36    |
-| Medium     | 13     |
+| Medium     | 14     |
 | Hard       | 0     |
-| **Total**  | **49**    |
+| **Total**  | **50**    |
 
 ## Problems Solved
 
@@ -64,6 +64,7 @@ Sr. No.| Problem Number | Source | Problem Title | Difficulty |
 | 47 | 121 | LC | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
 | 48 | 2149 | LC | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 
 | 49 | 215 | LC | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
+| 50 | 658 | LC | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium |
 
 
 ---
