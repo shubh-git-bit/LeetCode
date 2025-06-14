@@ -7,9 +7,9 @@ This repository contains solutions to coding problems from LeetCode and Geeksfor
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 36    |
-| Medium     | 14     |
+| Medium     | 15     |
 | Hard       | 0     |
-| **Total**  | **50**    |
+| **Total**  | **51**    |
 
 ## Problems Solved
 
@@ -65,6 +65,7 @@ Sr. No.| Problem Number | Source | Problem Title | Difficulty |
 | 48 | 2149 | LC | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 
 | 49 | 215 | LC | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
 | 50 | 658 | LC | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium |
+| 51 | 347 | LC | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |
 
 
 ---
