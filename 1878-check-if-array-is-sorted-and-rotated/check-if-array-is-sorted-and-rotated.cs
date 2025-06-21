@@ -5,15 +5,13 @@ public class Solution
        int dips = 0;
        if (nums.Length > 1)
        {
-        for (int i = 1;i < nums.Length; i++)
+        for (int i = 0;i < nums.Length; i++)
         {
-            if (nums[i] < nums[i - 1])
+            var next = nums[(i + 1) % nums.Length];
+            if (next < nums[i])
                 dips++;
         }
        }
-       
-       if (nums[nums.Length - 1] > nums[0])
-        dips++;
 
         return (dips <= 1); 
     }
