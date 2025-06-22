@@ -3,26 +3,19 @@ public class Solution
     public void Rotate(int[] nums, int k) 
     {
         int n = nums.Length;
-        k = k % n;
-        if (n > 1)
-        {
-            //Reverse the entire array
-            Reverse(nums, 0, n- 1);
-
-            //Reverse till k
-            Reverse(nums, 0, k - 1);
-
-            //Reverse from k to last
-            Reverse(nums, k, n - 1);
-        }
+        k %= n;
+        Reverse(nums, 0, n - k - 1);
+        Reverse(nums, n - k, n - 1);
+        Reverse(nums, 0, n - 1);
     }
-    public void Reverse(int[] nums, int start, int end)
+    private void Reverse(int[] arr, int start, int end)
     {
-        while(start < end)
+        int temp = 0;
+        while (start < end)
         {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp; 
+            temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
             start++;
             end--;
         }
