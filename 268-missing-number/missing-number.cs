@@ -2,12 +2,13 @@ public class Solution
 {
     public int MissingNumber(int[] nums) 
     {
-        int sum = 0;
         int n = nums.Length;
-        for (int i = 0; i < nums.Length; i++)
+        int totalSum = (n * (n + 1)) / 2;
+        int arraySum = 0;
+        foreach (var element in nums)
         {
-            sum += nums[i];
+            arraySum += element;
         }
-        return ((n * (n + 1)) / 2 - sum);
+        return (totalSum - arraySum);
     }
 }
