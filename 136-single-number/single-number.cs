@@ -2,11 +2,11 @@ public class Solution
 {
     public int SingleNumber(int[] nums) 
     {
-        int singleNumber = 0;
-        for (int i = 0; i < nums.Length; i++)
+        int xorSum = 0;
+        foreach (var element in nums)
         {
-            singleNumber ^= nums[i];
+            xorSum ^= element;
         }
-        return singleNumber;
+        return xorSum;
     }
 }
