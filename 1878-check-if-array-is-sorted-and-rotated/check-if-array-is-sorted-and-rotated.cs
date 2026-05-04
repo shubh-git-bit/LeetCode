@@ -2,17 +2,18 @@ public class Solution
 {
     public bool Check(int[] nums) 
     {
-       int dips = 0;
-       if (nums.Length > 1)
-       {
-        for (int i = 0;i < nums.Length; i++)
+        byte decreases = 0;
+        for (int i = 0; i < nums.Length; i++)
         {
-            var next = nums[(i + 1) % nums.Length];
-            if (next < nums[i])
-                dips++;
+            
+            if (nums[(i + 1) % nums.Length] < nums[i])
+            {
+                decreases++;
+            }
         }
-       }
-
-        return (dips <= 1); 
+        if (decreases <= 1)
+            return true;
+        else
+            return false;
     }
 }
